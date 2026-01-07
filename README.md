@@ -35,9 +35,3 @@ Check out my repositories to see more 👇
 ## 🌍 Links
 - 🌐 **Personal website:** [david-van-groningen.web.app](https://david-van-groningen.web.app)  
 - 💼 **LinkedIn:** [linkedin.com/in/david-van-groningen](https://www.linkedin.com/in/david-van-groningen/)  
-- 🧑‍💻 **GitHub:** [github.com/David-van-Groningen](https://github.com/David-van-Groningen)
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-van-Groningen&show_icons=true&theme=dark)
