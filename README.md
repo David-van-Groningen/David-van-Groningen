@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm David van Groningen
 
-<!--
-**David-van-Groningen/David-van-Groningen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software developer and problem solver** based in Utrecht.  
+I enjoy building clean, user-focused web applications and continuously improving my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Software developer with a passion for fullstack development  
+- 🧠 Strong focus on usability, clean code, and problem solving  
+- 📍 Based in Utrecht, The Netherlands  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** JavaScript, React, HTML, CSS, SCSS  
+- **Mobile:** React Native, Expo  
+- **Styling:** SCSS, CSS  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub  
+
+---
+
+## 📌 Projects
+Some of the things I've worked on:
+- ⌨️ Typing speed test application  
+- 🎬 Video admin dashboard  
+- 🌐 Personal portfolio website  
+
+Check out my repositories to see more 👇
+
+---
+
+## 🌍 Links
+- 🌐 **Personal website:** [david-van-groningen.web.app](https://david-van-groningen.web.app)  
+- 💼 **LinkedIn:** [linkedin.com/in/david-van-groningen](https://www.linkedin.com/in/david-van-groningen/)  
+- 🧑‍💻 **GitHub:** [github.com/David-van-Groningen](https://github.com/David-van-Groningen)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-van-Groningen&show_icons=true&theme=dark)
