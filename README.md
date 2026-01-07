@@ -19,7 +19,6 @@ I enjoy building clean, user-focused web applications and continuously improving
 ![React Native](https://img.shields.io/badge/React%20Native-000000?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-000000?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php)
